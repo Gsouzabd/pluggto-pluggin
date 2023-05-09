@@ -1,0 +1,221 @@
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(8145)
+  ["sku"]=>
+  string(8) "78900874"
+  ["quantity"]=>
+  int(2)
+  ["date_notification"]=>
+  string(19) "2023-03-31 10:50:14"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(8145)
+  ["sku"]=>
+  string(8) "78900874"
+  ["quantity"]=>
+  int(3)
+  ["date_notification"]=>
+  string(19) "2023-03-31 10:52:06"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(8145)
+  ["sku"]=>
+  string(8) "78900874"
+  ["quantity"]=>
+  int(4)
+  ["date_notification"]=>
+  string(19) "2023-03-31 10:52:31"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(8145)
+  ["sku"]=>
+  string(8) "78900874"
+  ["quantity"]=>
+  int(5)
+  ["date_notification"]=>
+  string(19) "2023-03-31 10:53:29"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(8145)
+  ["sku"]=>
+  string(8) "78900874"
+  ["quantity"]=>
+  int(6)
+  ["date_notification"]=>
+  string(19) "2023-03-31 10:55:20"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  int(1)
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:21:31"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  int(1)
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:22:21"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  int(1)
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:22:54"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  int(1)
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:23:18"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  int(1)
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:23:35"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:24:35"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:24:49"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:26:16"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:28:21"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:29:38"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:30:11"
+}
+
+array(5) {
+  ["type"]=>
+  string(5) "stock"
+  ["id"]=>
+  int(7695)
+  ["sku"]=>
+  string(5) "52362"
+  ["quantity"]=>
+  string(1) "1"
+  ["date_notification"]=>
+  string(19) "2023-03-31 11:30:41"
+}
+

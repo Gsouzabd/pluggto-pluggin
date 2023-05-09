@@ -1,0 +1,30 @@
+{
+    "name": "gabrielsouzabd/pluggto",
+    "description": "mlovi pluggto plugin",
+    "type": "project",
+    "license": "GLP",
+    "autoload": {
+        "psr-4": {
+                "Inc_PP\\": "./inc"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Souza"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "automattic/woocommerce": "^3.1",
+        "guzzlehttp/guzzle": "^7.5",
+        "php": "^7.4||^8.2"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        },
+        "platform-check": false
+
+    }
+}
