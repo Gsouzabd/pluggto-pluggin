@@ -126,15 +126,12 @@ class Order{
                 parse_str($order['Order']['shipping'], $totalShipping);
                 $total = strval($order['Order']['shipping']);
 
-                echo "aqui ok1";
-
                 /*
                 ** WOOCOMMERCE create order
                 */
                 $productsWC = $woocommerce->get('products', array('sku' => $sku));
                 foreach ($productsWC as $productWC) {
                     $productId = $productWC->id;
-                    echo "aqui ok1";
 
                     try {
                         $data = [
